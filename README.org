@@ -21,5 +21,5 @@ The default credentials for admin access to the webapps is:
 
 * camunda-bpm-platform k8s config files
 
-camunda deployment
+[[camunda-k8s/03.camunda.yml][camunda deployment]]
 #+include: "camunda-k8s/03.camunda.yml"
